@@ -6,4 +6,4 @@ You will find shortcuts dedicated to the application [Shortcuts](https://apps.ap
 
 This shortcut is intended to change the rendering of a photo taken via the front camera. Thus, it will return the meaning of one or more selected images. Finally, you will be asked to select the folder where you want to save it.   
    
-**Use [un-mirror selfi](https://www.icloud.com/shortcuts/ac32716be6c645888737a20b576fb2a7)**
+**Use [un-mirror selfie](https://www.icloud.com/shortcuts/ac32716be6c645888737a20b576fb2a7)**

@@ -1,4 +1,4 @@
-# shortcuts :repeat:
+# :repeat: shortcuts 
 
 You will find shortcuts dedicated to the application [Shortcuts](https://apps.apple.com/app/id915249334) on iOS. In order to use these shortcuts, all you need is an iOS smartphone with the Shortcuts app to click on the shortcuts link.
 
